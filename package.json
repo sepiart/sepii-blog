@@ -1,0 +1,25 @@
+{
+  "name": "sepii_blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "author": "sepii",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/bulma": "^1.2.1",
+    "babel-runtime": "^6.26.0",
+    "contentful": "^7.14.0",
+    "dotenv": "^8.2.0",
+    "nuxt": "^2.0.0",
+    "vue-markdown": "^2.2.4"
+  },
+  "devDependencies": {
+    "eslint-loader": "^3.0.3"
+  }
+}
