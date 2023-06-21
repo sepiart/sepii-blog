@@ -16,7 +16,7 @@
     "babel-runtime": "^6.26.0",
     "contentful": "^9.3.0",
     "dotenv": "^8.2.0",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.4.3",
     "vue-markdown": "^2.2.4"
   },
   "devDependencies": {
